@@ -1,0 +1,19 @@
+ECL Migration & Disclosure Tool — Run Log
+============================================================
+Run timestamp        : 03-Sep-2026 07:52:14
+Data source          : C:\Users\HITESH BHADADA\OneDrive\Desktop\AI@ICAI 220826\Capstone\files\Data
+Source files used    :
+    Q3FY26.xlsx
+      SHA-256  : f7e65f0de3fb0035bb7d0974b66968578d96dfbb48e3563773d35581cbde5464
+      archived : C:\Users\HITESH BHADADA\OneDrive\Desktop\AI@ICAI 220826\Capstone\files\output\input_archive\Q3FY26_2026-09-03_075214.xlsx
+    Q4FY26.csv
+      SHA-256  : 318f33b68ecdf29f83e143d64b18d81426458f6df7961e7b472f70b848e952cd
+      archived : C:\Users\HITESH BHADADA\OneDrive\Desktop\AI@ICAI 220826\Capstone\files\output\input_archive\Q4FY26_2026-09-03_075214.csv
+Periods available    : Q1FY25, Q2FY25, Q3FY25, Q4FY25, Q1FY26, Q2FY26, Q3FY26, Q4FY26
+Periods SELECTED     : Q3FY26, Q4FY26
+Comparisons analysed : Q3FY26 -> Q4FY26
+IRACP period         : Q4FY26
+IRACP basis          : NBFC-Middle Layer, RBI IRACP Directions, 2025
+DPD buckets          : 0 (Current), 1-30, 31-60, 61-90, 91-120, 120+
+AI narrative         : no (deterministic only)
+Workbook written     : C:\Users\HITESH BHADADA\OneDrive\Desktop\AI@ICAI 220826\Capstone\files\output\output\Q3FY26-vs-Q4FY26_2026-09-03_075214\Q3FY26-vs-Q4FY26_ECL_analysis_2026-09-03_075214.xlsx
